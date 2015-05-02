@@ -23,4 +23,6 @@ Raydel Cornelio: Raydel@dgofree.com
 Twitter Profiles:
 Jessica: @masquedfoodie
 Terri: @terribtraining
-
+Pierce: varyonic.github.io
+Freeman: https://www.linkedin.com/in/freemanjackson
+Raydel: https://www.linkedin.com/in/raydelcornelio
