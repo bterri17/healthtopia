@@ -1,8 +1,8 @@
 # healthtopia
-Healthtopia
+
 
 -[Healthtopia] (https://github.com/bterri/healthtopia) by Wellness Tech
-Shared Real Time Health Conference For the Global Generations
+Shared Real Time Health For the Global Generations
 
 Technology Used:
 "How to Implement Facebook App Authorization in Java" by Sergiy Kovalchuk http://www.sergiy.ca/how-to-implement-facebook-oauth-2.0-app-authorization-process-in-java/
