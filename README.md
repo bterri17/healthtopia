@@ -13,6 +13,8 @@ Technology Used:
 
 "Facebook Application Development for Dummies" http://dl.upforfree.com/ebooks/Facebook-Application-Development-for-Dummies-ebooksfeed.com.pdf
 
+https://github.com/bterri17/openmrs-module-registrationapp-master
+
 Team Members:
 Freeman Jackson: Freeman@dgofree.com
 Terri-Ann Brown: Terri@dgofree.com
