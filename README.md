@@ -17,7 +17,7 @@ https://github.com/bterri17/openmrs-module-registrationapp-master
 
 WebRTC
 
-Facebook Login 
+Facebook Login https://github.com/bterri17/facebooklogin
 
 Team Members:
 Freeman Jackson: Freeman@dgofree.com
